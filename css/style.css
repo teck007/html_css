@@ -18,12 +18,10 @@ body{
 .content{
 }
 .footer{
-    height: 4%;
     width: 100%;
     background-color: rgb(60, 83, 104);
     display: inline-block;
     padding: 1% 1% 1% 2%;
-    float: initial;
 }
 .footer p{
     color: white;
